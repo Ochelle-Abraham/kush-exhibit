@@ -182,15 +182,15 @@ function IntroHall() {
           <div>
             <h3 style={{ fontFamily: "'Cinzel',serif", fontSize: "1.05rem", color: "#e8c878", marginBottom: "1rem" }}>About This Exhibition</h3>
             <p style={body}>
-              <em>Children of the Sun: The Black Pharaohs of Kush &amp; Egypt&apos;s 25th Dynasty</em> is a digital humanities
-              museum exhibit presenting fifteen artifacts from the world&apos;s leading collections of ancient Nubian art and
+              <em>Children of the Sun: The Black Pharaohs of Kush &amp; Egypt&apos;s 25th Dynasty</em>  is a
+             museum exhibit presenting fifteen artifacts from the world&apos;s leading collections of ancient Nubian art and
               archaeology. The exhibit examines the material evidence for the Kushite dynasty that ruled Egypt from approximately
-              747 to 656 BCE—one of the most significant and least widely known periods in the history of African civilization.
+              747 to 656 BCE, one of the most significant and least widely known periods in the history of African civilization.
             </p>
             <p style={{ ...body, marginTop: "1rem" }}>
               The artifacts presented here are drawn from the British Museum (London), the Egyptian Museum (Cairo), the Museum
               of Fine Arts (Boston), the Musée du Louvre (Paris), the Nubian Museum (Aswan), the Kerma Museum (Sudan),
-              and the ISAC Museum at the University of Chicago. Each artifact is accompanied by a scholarly analysis addressing
+              and the ISAC Museum at the University of Chicago. Each artifact is accompanied by an analysis addressing
               its function, patronage, subject matter, formal construction, and conceptual significance within the history of
               the 25th Dynasty.
             </p>
