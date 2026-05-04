@@ -119,7 +119,7 @@ export const artifacts: Artifact[] = [
     currentLocation: "Egyptian Museum, Cairo, Egypt (CG 565 / JE 3420). Discovered at Karnak, Temple of Montu. A related version held at the Nubian Museum, Aswan, Egypt.",
     section: "rise",
     sectionTitle: "Rise of the Black Pharaohs",
-    imageUrl: "/images/amenirdis.jpg",
+    imageUrl: "/images/amenri.jpeg",
     imageAlt: "The alabaster statue of Amenirdis I standing in canonical Egyptian pose, wearing the crown of Isis and Hathor and holding a floral scepter",
     function:
       "This statue serves as a votive cult image memorializing Amenirdis I in her sacred office as God's Wife of Amun—the highest religious and political position available to a woman in ancient Egypt. Placed in the Karnak temple precinct, it ensured her divine presence before Amun in perpetuity, allowing her to fulfill her ritual function (the daily performance of rites on behalf of the god) even in her physical absence. Politically, the statue functioned as a permanent declaration of Kushite authority over the Theban region: by being present in stone at Karnak, Amenirdis announced the Nubian royal house's ownership of Egypt's most sacred religious complex.",
@@ -132,9 +132,9 @@ export const artifacts: Artifact[] = [
     conceptualApproach:
       "The statue of Amenirdis I tells the story of how the Kushite dynasty extended and consolidated its power through religion and gender rather than through force alone. By placing a Nubian princess as God's Wife of Amun—effectively the divine consort of Egypt's most powerful deity—the Kushite kings secured the loyalty of the Theban priesthood and controlled Upper Egypt without a standing army of occupation. This was political genius expressed in alabaster and gold leaf. The figure's fusion of Egyptian iconographic purity with unmistakably African facial features also embodies the broader 25th Dynasty project: not the erasure of Kushite identity within Egyptian culture, but its elevation and integration into Egypt's most sacred spaces.",
     citation:
-      "Egyptian Museum Cairo, 'Statue of Amenirdis' (egyptianmuseumcairo.eg/artefacts/statue-of-amenirdis/).",
+      "Institute for the Study of the Ancient World (ISAC), NYU, 'Statue of Amenirdas I, the Divine Consort' (isaw.nyu.edu/exhibitions/wgre/highlights/statue-of-amenirdas-i-the-divine-consort-1).",
     citationUrl:
-      "https://egyptianmuseumcairo.eg/artefacts/statue-of-amenirdis/",
+      "https://isaw.nyu.edu/exhibitions/wgre/highlights/statue-of-amenirdas-i-the-divine-consort-1",
   },
 
   // ═══ SECTION 2: DIVINE ═══
