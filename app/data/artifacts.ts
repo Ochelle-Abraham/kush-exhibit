@@ -31,7 +31,7 @@ export const sections = [
     title: "Divine Authority",
     subtitle: "Religion, Theology & Sacred Power",
     description:
-      "The Kushite pharaohs were not merely conquerors—they were deeply pious rulers who embraced, preserved, and in many cases intensified Egypt's religious traditions. This gallery presents artifacts that reveal the 25th Dynasty's profound theological engagement: the commissioning of sacred texts, the veneration of Egyptian gods, and the fusion of Nubian and Egyptian devotional practice.",
+      "The Kushite pharaohs were not merely conquerors: they were deeply pious rulers who embraced, preserved, and in many cases intensified Egypt's religious traditions. This gallery presents artifacts that reveal the 25th Dynasty's profound theological engagement: the commissioning of sacred texts, the veneration of Egyptian gods, and the fusion of Nubian and Egyptian devotional practice.",
   },
   {
     id: "synthesis",
