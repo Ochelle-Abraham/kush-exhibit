@@ -79,10 +79,10 @@ export const artifacts: Artifact[] = [
       "Carved from dark-gray granite quarried at or near Jebel Barkal in Nubia, the stela's creation required the labor of skilled stonecutters, hieroglyphic scribes, and relief carvers working under royal supervision. The text is organized in horizontal registers of hieroglyphs following classical Middle Egyptian literary conventions—a deliberate choice that presented Piye as fully literate in Egypt's highest scribal traditions. The massive scale of the stone (nearly six feet tall and over two tons in weight) was itself a statement of royal power and resource command. The lunette relief at the top follows Egyptian New Kingdom compositional conventions for royal victory scenes.",
     conceptualApproach:
       "The Victory Stela is arguably the single most important document of the 25th Dynasty. It establishes the ideological core of Kushite rule: that Nubian kings were not foreign usurpers but the righteous restorers of Egypt's sacred order. Piye presents himself as more devoutly Egyptian than the Egyptian rulers he defeats—he refuses to enter Memphis until he has made offerings at the city's great temples, and he denies an audience to enemy kings who had eaten fish (ritually unclean in the Amun tradition). This document redefines the meaning of pharaonic legitimacy: it is about moral purity and divine election rather than ethnic origin or bloodline. The Victory Stela announces to the ancient world—and to us—that Black African kings from the south had become the true custodians of Egypt's most sacred civilizational inheritance.",
-    citation:
-      "Stele of Piye. Wikipedia. See also: Smarthistory, 'King Piye and the Kushite Control of Egypt' (peer-reviewed open-access art history resource, reviewed by scholars at Brown and Yale).",
+   citation:
+      "Global Egyptian Museum, 'Victory Stela of Piye' (globalegyptianmuseum.org/record.aspx?id=15806).",
     citationUrl:
-      "https://smarthistory.org/king-piye-kushite-egypt/",
+      "https://www.globalegyptianmuseum.org/record.aspx?id=15806",
   },
   {
     id: 2,
@@ -105,9 +105,10 @@ export const artifacts: Artifact[] = [
       "Carved from granite gneiss quarried at Tombos in Nubia, the sphinx was shaped using stone-cutting, abrasion, and polishing techniques by craftsmen brought from Memphis—demonstrating Taharqo's direct access to the finest Egyptian artisans. The sculptural style deliberately evokes Middle Kingdom sphinxes, particularly those of Amenemhat III, with the raised ruff of hair around the lion's neck rendered in a manner echoing sphinxes carved roughly a thousand years earlier. Despite its relatively modest size (smaller than a medium dog), the British Museum has described it as 'a masterpiece of Kushite art,' and its formal sophistication has been widely recognized by scholars.",
     conceptualApproach:
       "Described by the British Museum as 'a very sophisticated piece of political imagery,' this sphinx is among the most eloquent visual statements of the 25th Dynasty's dual identity. The Egyptian sphinx form signals legitimacy within thousands of years of pharaonic tradition, while Taharqo's distinctly African facial features announce, without hesitation, that the ruler is Nubian. The double uraeus declares sovereignty over both Egypt and Kush simultaneously. Placed in an inner sanctuary accessible only to royals and priests, it spoke a coded language: Kushite visitors would be affirmed by its African features, while Egyptian officials would be reassured by its pharaonic iconography. It is, as the British Museum puts it, 'not just a mix of north and south'—it also reaches deliberately across time, positioning Taharqo within a thousand-year lineage of great Egyptian kings. This is the face of Black kingship at its most self-assured.",
-    citation:
-      "British Museum Collection Online (EA 1770); Egypt Museum, 'Sphinx of Taharqa' (egypt-museum.com); 'Sphinx of Taharqo,' BBC/British Museum, A History of the World in 100 Objects.",
-    citationUrl: "https://egypt-museum.com/sphinx-of-taharqa/",
+ citation:
+      "British Museum Collection Online, 'Sphinx of Taharqa' (britishmuseum.org/collection/object/Y_EA1770).",
+    citationUrl:
+      "https://www.britishmuseum.org/collection/object/Y_EA1770",
   },
   {
     id: 3,
