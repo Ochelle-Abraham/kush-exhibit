@@ -140,29 +140,30 @@ export const artifacts: Artifact[] = [
   // ═══ SECTION 2: DIVINE ═══
   {
     id: 4,
-    title: "Portrait Head of King Shebitku (Shabataka)",
-    date: "ca. early 7th century BCE (ca. 707–690 BCE), Reign of Shebitku, 25th Dynasty",
-    material: "Granite, carved in the round",
-    dimensions: "Approximately 30 cm high (head only; originally part of a larger statue)",
-    currentLocation: "Nubian Museum, Aswan, Egypt. Third Intermediate Period, Dynasty XXV.",
+    title: "Inscribed Steatite Ball",
+    date: "743–712 BCE, Reign of Piye, 25th Dynasty",
+    material: "Steatite",
+    dimensions: "1 × 1¼ inches",
+    currentLocation: "Museum of Fine Arts, Boston, Massachusetts, USA (Harvard University–Boston Museum of Fine Arts Expedition, from the royal women's tombs at El-Kurru, Sudan). Featured in the High Museum of Art exhibition 'Ancient Nubia: Art of the 25th Dynasty,' Atlanta, 2023.",
     section: "divine",
     sectionTitle: "Divine Authority",
-    imageUrl: "/images/Shebitku.jpg",
-    imageAlt: "Granite portrait head believed to depict Kushite pharaoh Shebitku, third king of the 25th Dynasty, showing broad African facial features and a close-fitting royal cap — Nubian Museum, Aswan",
+    imageUrl: "/images/ball.jpeg",
+    imageAlt: "Inscribed steatite ball bearing the cartouche of Queen Khensa, wife of King Piye, from the royal women's tombs at El-Kurru — Museum of Fine Arts, Boston",
     function:
-      "This portrait head was originally part of a full royal statue erected in a temple or palace context to serve as the eternal divine presence of King Shebitku—the third pharaoh of the 25th Dynasty. Royal portrait sculptures of this type functioned as cult images: placed in sanctuaries, they received daily offerings of food, incense, and ritual care in the king's name, whether he was present or not. By depicting the king in stone, the statue ensured that royal power and divine protection were permanently anchored in the sacred space.",
+      "This small inscribed steatite ball served as a royal funerary or votive object, bearing the name and a divine blessing for Queen Khensa, believed to be the principal wife of King Piye, the first pharaoh of the 25th Dynasty. The inscription invokes the god Amun to bestow life, health, stability, and prosperity upon the queen, making this object a vehicle of divine protection. It was among the jewels discovered in the royal women's tombs at El-Kurru—objects the High Museum describes as 'among the most exquisite objects to survive from Napatan times,' created using gold, silver, rock crystal, enamel, and semiprecious stones.",
     patronage:
-      "Present: Held in the Nubian Museum, Aswan, Egypt—one of Egypt's major institutions dedicated to the preservation and display of Nubian history and art. The museum, opened in 1997, houses an extensive collection of 25th Dynasty royal portraits and artifacts. Past: Commissioned under the royal patronage of Shebitku (also known as Shabataka, r. ca. 707–690 BCE), son of Piye and successor to Shabaka. Shebitku consolidated Kushite control of Egypt, moved the dynasty's capital north, and directed resources toward temple construction and royal monument programs throughout the Nile Valley.",
+      "Present: In the collection of the Museum of Fine Arts, Boston, acquired through the Harvard University–Museum of Fine Arts Expedition, and featured in the High Museum of Art's 2023 exhibition 'Ancient Nubia: Art of the 25th Dynasty.' Past: Produced for and buried with Queen Khensa, believed by scholars to be the principal wife of King Piye (r. 743–712 BCE), based on her royal titles. Piye had at least three queens and perhaps as many as five or six; this object connects directly to the innermost circle of 25th Dynasty royal power. The High Museum notes that some of the jewelry from these tombs may be Egyptian in origin, part of the wealth Piye brought back from his military campaigns.",
     subject:
-      "The portrait head depicts a male figure wearing a close-fitting royal cap—characteristic Kushite royal headgear—above a face with distinctly Nubian physiognomic features: a broad, rounded face, wide cheekbones, full lips, and the naturalistic treatment of the eyes and brow that distinguishes Kushite royal portraiture from its Egyptian counterparts. The face is carved with careful attention to individual character, giving the impression of a specific royal personality rather than a generic type. National Geographic identifies this head as believed to depict Shebitku and notes that it exemplifies the naturalistic African portraiture style of the 25th Dynasty.",
+      "The ball is inscribed with two cartouches reading 'Khensa, may Amen give life and health.' Inscriptions between the cartouches read 'May Amen give all stability and prosperity, all life, all health and all joy.' This layered invocation of Amun's blessings is characteristic of the 25th Dynasty's intense devotion to the god, whose worship was central to the Kushite royal ideology. The object's small scale—barely an inch across—makes its careful inscription all the more remarkable, demonstrating the precision of Napatan craftspeople working at miniature scale.",
     formalApproach:
-      "Carved in granite using Egyptian sculptural conventions adapted to Kushite royal physiognomy, the head represents the mature style of 25th Dynasty portraiture: a synthesis of Egyptian formal discipline with the naturalistic observation of distinctly African facial features. The surface is carefully finished and polished. The cap crown sits close to the skull with minimal ornamentation, characteristic of Napatan royal headgear. The head was originally tenoned into a larger statue body, the rest of which has not survived.",
+      "Carved from steatite—a soft, easily worked stone that could be shaped with fine detail—the ball is a miniature work of lapidary craftsmanship. Steatite was a common material for small Egyptian and Nubian amulets and votive objects due to its workability and ability to hold fine incised detail. The circular form, combined with the repeated invocation of Amun's name around its surface, creates an object that functions almost like a devotional bead—a compact, portable declaration of divine favor.",
     conceptualApproach:
-      "The portrait head of Shebitku provides direct physical evidence of a Black pharaoh in the most literal sense: a stone face, carved by Kushite artists, showing the actual African features of one of Egypt's ruling kings. Unlike objects that only carry a royal name or cartouche, this head confronts the viewer with the reality of the 25th Dynasty—these were men with Nubian faces who wore the crown of the pharaohs. National Geographic specifically reproduces this head in its reporting on the Kushite pharaohs as evidence of their African identity. The Nubian Museum's preservation and display of this portrait is itself a statement: the face of a Black pharaoh belongs in Africa, kept by Africans, for the world to see.",
+      "The Inscribed Steatite Ball is a window into the private devotional world of the 25th Dynasty's royal women. While the male pharaohs are commemorated in monumental statues and great stelae, the queens of the Kushite court are memorialized in intimate, exquisite objects like this one. The inscription—calling upon Amun for life, health, stability, and joy—reveals that the god who drove Kushite political ambition was also the god called upon in the most personal moments of royal life. The object also confirms the historical presence of Queen Khensa: it is physical evidence, handled and inscribed by Napatan craftspeople, of a Kushite queen's name, her divine relationships, and her place within the dynasty that ruled Egypt.",
     citation:
-      "National Geographic, 'Nubian Kings Ruled Egypt for Less Than 100 Years. Their Influence Lasted Centuries.' (identifying this head as Shebitku, Nubian Museum, Aswan); Nubian Museum, Aswan (egypttoursportal.com/en-us/the-nubian-museum/).",
+      "High Museum of Art, 'Ancient Nubia: Art of the 25th Dynasty' (high.org/exhibition/ancient-nubia/), entry for Inscribed Steatite Ball, 743–712 BCE, MFA Boston.",
     citationUrl:
-      "https://www.nationalgeographic.com/history/article/nubian-pharaohs-kushite-ancient-egypt",
+      "https://high.org/exhibition/ancient-nubia/",
+  
   },
   {
     id: 5,
@@ -192,30 +193,31 @@ export const artifacts: Artifact[] = [
   },
   {
     id: 6,
-    title: "Statuette of King Taharqa Offering Wine to the Falcon God Hemen",
-    date: "ca. 690–664 BCE, Reign of Taharqa, 25th Dynasty",
-    material: "Bronze (king's figure); gold-plated chloritite (falcon god Hemen); silver-plated wooden base",
-    dimensions: "19.7 cm high overall",
-    currentLocation: "Musée du Louvre, Paris, France (Département des Antiquités Égyptiennes). Acquired 1952.",
+    title: "Amulet of a Cat",
+    date: "743–712 BCE, Reign of Piye, 25th Dynasty",
+    material: "Dolomitic marble",
+    dimensions: "1¾ × 9/16 × 1 inches",
+    currentLocation: "Museum of Fine Arts, Boston, Massachusetts, USA (Harvard University–Boston Museum of Fine Arts Expedition, from the tomb of Queen Tabiry at El-Kurru, Sudan). Featured in the High Museum of Art exhibition 'Ancient Nubia: Art of the 25th Dynasty,' Atlanta, 2023.",
     section: "divine",
     sectionTitle: "Divine Authority",
-    imageUrl: "/images/falcon.jpg",
-    imageAlt: "Bronze and gold statuette group: the kneeling Kushite pharaoh Taharqa in bronze offering wine vases to the gold-plated falcon god Hemen, Musée du Louvre, Paris",
+    imageUrl: "/images/Dora.jpeg",
+    imageAlt: "Amulet of a seated cat carved in dolomitic marble, from the tomb of Queen Tabiry at El-Kurru — representing the goddess Bastet — Museum of Fine Arts, Boston",
     function:
-      "This multi-material statuette group was created as a votive devotional offering for presentation at a temple of the falcon god Hemen, depicting the ritual act of royal wine offering—one of the most fundamental ceremonies of Egyptian priestly kingship. The kneeling king presents two round wine vases to the standing falcon deity in a gesture of total submission and devotion. Such votive statuettes were placed permanently in temple treasuries as accumulated proofs of royal piety, where they continued to perform their ritual function in perpetuity even after the dedicating king's death.",
+      "This amulet of a seated cat was placed as a funerary and protective object in the tomb of Queen Tabiry, one of the wives of King Piye, founder of the 25th Dynasty. Amulets of this type served dual functions: as protective charms invoking the power of the deity they represented and as declarations of the owner's piety and divine favor. Placed in the tomb, the amulet continued its protective function into the afterlife, guarding the queen's spirit and body through the passage from life to eternity.",
     patronage:
-      "Present: In the collection of the Musée du Louvre, Paris, acquired in 1952 from the Parke-Bernet Galleries, New York (auction of the Mansoor collection). Documented in the Louvre's scholarly catalogue as a masterpiece of Kushite royal bronze work, with extensive bibliography in peer-reviewed Egyptological literature. Past: Commissioned by or for King Taharqa (r. 690–664 BCE), the most celebrated pharaoh of the 25th Dynasty. The Louvre's catalogue notes that the piece is 'a magnificent portrait of King Taharqa, born in the Sudan but crowned in Memphis.'",
+      "Present: In the collection of the Museum of Fine Arts, Boston, acquired through the Harvard University–Boston Museum of Fine Arts Expedition's excavations at El-Kurru, Sudan. Featured in the High Museum of Art's 2023 exhibition 'Ancient Nubia: Art of the 25th Dynasty.' Past: Buried with Queen Tabiry, identified in inscriptions as one of the wives of King Piye (r. 743–712 BCE). The High Museum notes that the jewels and objects from the royal women's tombs at El-Kurru are 'among the most exquisite objects to survive from Napatan times,' reflecting the wealth and status of the Kushite royal court.",
     subject:
-      "The statuette group shows King Taharqa kneeling in a posture of deep reverence before the falcon god Hemen, who stands upright holding a rearing cobra. Taharqa holds two round wine vessels—the classic offering vases of Egyptian ritual—extended toward the deity. The bronze figure of Taharqa is rendered as a specific royal portrait: his double uraeus (the two rearing cobras of Kushite kingship, affirming rule over both Egypt and Kush) is clearly visible on his forehead, and his birth name is engraved on his belt: 'The perfect god, Taharqa, alive for eternity.' His face bears the characteristic broad features of Kushite royal portraiture. The falcon god Hemen is covered in gold leaf—the divine metal of the sun—creating a visual hierarchy between mortal and deity.",
+      "The amulet depicts a seated cat—upright, composed, and alert—in the canonical Egyptian form of the feline deity. According to the High Museum, this cat 'probably represents Bastet, a goddess of fertility and motherhood,' and 'exemplifies a longstanding tradition of assigning an animal form to deities.' The cat is carved in dolomitic marble, a white to pale grey stone that gives the figure a clean, luminous appearance. The seated posture—forelegs straight, tail curled around the base—is the standard Late Period Bastet form, rendered here with careful naturalistic attention to the animal's proportions.",
     formalApproach:
-      "An extraordinary multi-material composition employing bronze casting for the king's figure, gold-plating over chloritite (a dark green stone) for the falcon god, silver plating for the wooden base, and precise engraved inscriptions throughout. The scale differential between the kneeling Taharqa and the standing Hemen was carefully calculated to express theological hierarchy. The Louvre's collections record identifies this as a 'ronde-bosse' (fully three-dimensional) composition, with the royal figure executed with exceptional attention to portrait detail, particularly in the facial features and the double uraeus crown.",
+      "Carved in dolomitic marble—an unusually refined material choice for a small amulet, harder and more translucent than the common faience or bronze used for most Kushite amulets—the piece demonstrates the high quality of craftsmanship applied to even the smallest objects in the royal women's tombs at El-Kurru. The carver achieved a smooth, polished surface and accurate feline proportions at a scale of less than two inches. The choice of dolomitic marble over the more common amulet materials signals that this was not a mass-produced devotional object but a luxury piece created specifically for a royal burial.",
     conceptualApproach:
-      "This statuette is one of the most direct visual declarations of Black pharaonic identity in the 25th Dynasty's entire artistic output. The face of Taharqa—an African man, born in Sudan, kneeling before an Egyptian god—is rendered in portrait detail for a purpose: this is not an anonymous devotee but a named, identified king whose own inscription tells us who he is. The double uraeus on his forehead announces his sovereignty over two kingdoms simultaneously. The Louvre's own description calls the bronze 'a magnificent portrait of a king born in Sudan but crowned in Memphis'—a formulation that captures the entire significance of the 25th Dynasty in a single sentence. This is the evidence of the Black pharaohs in its most personal, intimate, and undeniable form.",
+      "The Amulet of a Cat from Queen Tabiry's tomb speaks to the 25th Dynasty's comprehensive engagement with Egyptian religious tradition at every scale—from the monumental Victory Stela of Piye to this miniature marble cat, the dynasty's devotional world was fully inhabited. The presence of Bastet, the goddess of fertility and motherhood, in the tomb of a Kushite queen also reveals the human dimensions of royal life in Napata: these were women who prayed, who sought divine protection for themselves and their children, and who were buried with objects that declared their piety as clearly as any royal inscription. The High Museum observes that this piece 'exemplifies a longstanding tradition of assigning an animal form to deities'—a tradition the Kushite queens embraced fully, weaving Egyptian religious symbolism into their most intimate ritual objects.",
     citation:
-      "Musée du Louvre Collections Online, 'Taharqa et Hémen' (collections.louvre.fr/en/ark:/53355/cl010002359); Flickr documentation citing Louvre caption: 'A magnificent portrait of King Taharqa, born in the Sudan but crowned in Memphis.'",
+      "High Museum of Art, 'Ancient Nubia: Art of the 25th Dynasty' (high.org/exhibition/ancient-nubia/), entry for Amulet of a Cat, 743–712 BCE, MFA Boston.",
     citationUrl:
-      "https://collections.louvre.fr/en/ark:/53355/cl010002359",
+      "https://high.org/exhibition/ancient-nubia/",
   },
+  
 
   // ═══ SECTION 3: SYNTHESIS ═══
   {
