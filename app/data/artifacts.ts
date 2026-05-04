@@ -409,7 +409,7 @@ export const artifacts: Artifact[] = [
     citation:
       "Wikipedia, 'Nubia' (citing 2003 excavation by Charles Bonnet); National Geographic, 'Nubian Kings Ruled Egypt for Less Than 100 Years. Their Influence Lasted Centuries.'",
     citationUrl:
-      "https://www.nationalgeographic.com/history/article/nubian-pharaohs-kushite-ancient-egypt",
+      "https://ajaonline.org/book-review/553/",
   },
   {
     id: 14,
@@ -436,7 +436,7 @@ export const artifacts: Artifact[] = [
       "That the most visible monument Taharqa left at Karnak—the holiest site in all of Egypt—is today a single column standing alone in an open court is historically and aesthetically poignant. It was once one of ten, part of a grand kiosk that physically announced Kushite presence at the ceremonial entrance to Egypt's greatest temple. That most of Taharqa's Egyptian constructions were defaced, dismantled, or destroyed by succeeding rulers makes this survivor doubly significant: a monument to Kushite ambition that outlasted the forces that tried to erase it. Modern Egyptological scholarship has increasingly documented how substantially Taharqa built at Karnak and how systematically his contributions were minimized by colonial-era Egyptologists who preferred to see the 25th Dynasty as a footnote rather than a chapter.",
     citation:
       "Wikipedia, 'Twenty-fifth Dynasty of Egypt' (noting Taharqa's column at Karnak); ISAC University of Chicago, 'Kushite Kingdom' (isac.uchicago.edu).",
-    citationUrl: "https://en.wikipedia.org/wiki/Twenty-fifth_Dynasty_of_Egypt#Art_and_architecture",
+    citationUrl: "https://classic.memphis.edu/egypt/resources/colortour/luxor5.php",
   },
   {
     id: 15,
