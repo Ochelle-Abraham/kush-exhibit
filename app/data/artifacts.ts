@@ -271,7 +271,7 @@ export const artifacts: Artifact[] = [
     citation:
       "Ashmolean Museum, University of Oxford, 'Shrine of Taharqa' (ashmolean.org); Egypt Museum, 'Shrine of Taharqa' (egypt-museum.com/shrine-of-taharqa/); CNN, 'Ancient Egyptian Mummies Given New Lease of Life' (identifying the Shrine as the largest freestanding Pharaonic monument in Britain).",
     citationUrl:
-      "https://egypt-museum.com/shrine-of-taharqa/",
+      "https://www.ashmolean.org/files/learnpdftaharqasshrinepdf",
   },
   {
     id: 9,
