@@ -182,7 +182,7 @@ function IntroHall() {
           <div>
             <h3 style={{ fontFamily: "'Cinzel',serif", fontSize: "1.05rem", color: "#e8c878", marginBottom: "1rem" }}>About This Exhibition</h3>
             <p style={body}>
-              <em>Children of the Sun: The Black Pharaohs of Kush &amp; Egypt&apos;s 25th Dynasty</em>  is a
+              <em>Children of the Sun: The Black Pharaohs of Kush &amp; Egypt&apos;s 25th Dynasty </em>  is a
              museum exhibit presenting fifteen artifacts from the world&apos;s leading collections of ancient Nubian art and
               archaeology. The exhibit examines the material evidence for the Kushite dynasty that ruled Egypt from approximately
               747 to 656 BCE, one of the most significant and least widely known periods in the history of African civilization.
