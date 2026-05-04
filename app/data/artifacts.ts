@@ -147,7 +147,7 @@ export const artifacts: Artifact[] = [
     currentLocation: "Museum of Fine Arts, Boston, Massachusetts, USA (Harvard University–Boston Museum of Fine Arts Expedition, from the royal women's tombs at El-Kurru, Sudan). Featured in the High Museum of Art exhibition 'Ancient Nubia: Art of the 25th Dynasty,' Atlanta, 2023.",
     section: "divine",
     sectionTitle: "Divine Authority",
-    imageUrl: "/images/ball.jpeg",
+    imageUrl: "/images/ball.jpg",
     imageAlt: "Inscribed steatite ball bearing the cartouche of Queen Khensa, wife of King Piye, from the royal women's tombs at El-Kurru — Museum of Fine Arts, Boston",
     function:
       "This small inscribed steatite ball served as a royal funerary or votive object, bearing the name and a divine blessing for Queen Khensa, believed to be the principal wife of King Piye, the first pharaoh of the 25th Dynasty. The inscription invokes the god Amun to bestow life, health, stability, and prosperity upon the queen, making this object a vehicle of divine protection. It was among the jewels discovered in the royal women's tombs at El-Kurru—objects the High Museum describes as 'among the most exquisite objects to survive from Napatan times,' created using gold, silver, rock crystal, enamel, and semiprecious stones.",
@@ -200,7 +200,7 @@ export const artifacts: Artifact[] = [
     currentLocation: "Museum of Fine Arts, Boston, Massachusetts, USA (Harvard University–Boston Museum of Fine Arts Expedition, from the tomb of Queen Tabiry at El-Kurru, Sudan). Featured in the High Museum of Art exhibition 'Ancient Nubia: Art of the 25th Dynasty,' Atlanta, 2023.",
     section: "divine",
     sectionTitle: "Divine Authority",
-    imageUrl: "/images/Dora.jpeg",
+    imageUrl: "/images/Dora.jpg",
     imageAlt: "Amulet of a seated cat carved in dolomitic marble, from the tomb of Queen Tabiry at El-Kurru — representing the goddess Bastet — Museum of Fine Arts, Boston",
     function:
       "This amulet of a seated cat was placed as a funerary and protective object in the tomb of Queen Tabiry, one of the wives of King Piye, founder of the 25th Dynasty. Amulets of this type served dual functions: as protective charms invoking the power of the deity they represented and as declarations of the owner's piety and divine favor. Placed in the tomb, the amulet continued its protective function into the afterlife, guarding the queen's spirit and body through the passage from life to eternity.",
@@ -271,7 +271,7 @@ export const artifacts: Artifact[] = [
     citation:
       "Ashmolean Museum, University of Oxford, 'Shrine of Taharqa' (ashmolean.org); Egypt Museum, 'Shrine of Taharqa' (egypt-museum.com/shrine-of-taharqa/); CNN, 'Ancient Egyptian Mummies Given New Lease of Life' (identifying the Shrine as the largest freestanding Pharaonic monument in Britain).",
     citationUrl:
-      "https://egypt-museum.com/shrine-of-taharqa/",
+      "https://www.ashmolean.org/files/learnpdftaharqasshrinepdf",
   },
   {
     id: 9,
