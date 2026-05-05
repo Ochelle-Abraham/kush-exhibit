@@ -129,11 +129,11 @@ function Entrance() {
           seized control of Egypt and ruled as pharaohs over one of the largest empires in the ancient world.
           They built more pyramids than the Egyptians, preserved Egypt&apos;s most sacred theological texts, and left
           monumental works across the Nile Valley that endure today. This exhibit restores their story through
-          fifteen artifacts drawn from the world&apos;s leading museum collections.
+          fourteen artifacts drawn from the world&apos;s leading museum collections.
         </p>
         {/* Stats row */}
         <div style={{ display: "flex", gap: "0px", justifyContent: "center", flexWrap: "wrap", marginBottom: "2.8rem", border: "1px solid rgba(200,150,60,0.15)" }}>
-          {[["91 Years","of Kushite Rule in Egypt"],["15 Artifacts","across 5 Galleries"],["5 Sections","Chronological & Thematic"],["200+ Pyramids","Built by Nubian Kings"]].map(([n,l],i) => (
+          {[["91 Years","of Kushite Rule in Egypt"],["14 Artifacts","across 5 Galleries"],["5 Sections","Chronological & Thematic"],["200+ Pyramids","Built by Nubian Kings"]].map(([n,l],i) => (
             <div key={n} style={{ padding: "1.1rem 1.8rem", borderRight: i < 3 ? "1px solid rgba(200,150,60,0.12)" : "none", textAlign: "center", flex: "1 1 140px" }}>
               <div style={{ fontFamily: "'Cinzel',serif", fontSize: "clamp(0.9rem,1.8vw,1.3rem)", color: "#c8963c", lineHeight: 1 }}>{n}</div>
               <div style={{ fontFamily: "'Cinzel',serif", fontSize: "0.48rem", letterSpacing: "0.18em", textTransform: "uppercase", color: "#8a7e6e", marginTop: "0.3rem" }}>{l}</div>
@@ -183,7 +183,7 @@ function IntroHall() {
             <h3 style={{ fontFamily: "'Cinzel',serif", fontSize: "1.05rem", color: "#e8c878", marginBottom: "1rem" }}>About This Exhibition</h3>
             <p style={body}>
               <em>Children of the Sun: The Black Pharaohs of Kush &amp; Egypt&apos;s 25th Dynasty </em>  is a
-             museum exhibit presenting fifteen artifacts from the world&apos;s leading collections of ancient Nubian art and
+             museum exhibit presenting fourteen artifacts from the world&apos;s leading collections of ancient Nubian art and
               archaeology. The exhibit examines the material evidence for the Kushite dynasty that ruled Egypt from approximately
               747 to 656 BCE, one of the most significant and least widely known periods in the history of African civilization.
             </p>
@@ -536,7 +536,7 @@ function Curatorial() {
             {/* Left column */}
             <div>
               <h3 style={{ fontFamily: "'Cinzel',serif", fontSize: "0.95rem", color: "#e8c878", marginBottom: "1rem" }}>Exhibition Summary</h3>
-              {[["15","Artifacts from World Collections"],["5","Thematic Galleries"],["7+","Institutional Sources"],["100%","Credible Museum / University Citations"]].map(([n,l]) => (
+              {[["14","Artifacts from World Collections"],["5","Thematic Galleries"],["7+","Institutional Sources"],["100%","Credible Museum / University Citations"]].map(([n,l]) => (
                 <div key={l} style={{ display: "flex", alignItems: "center", gap: "1rem", padding: "0.75rem 0", borderBottom: "1px solid rgba(200,150,60,0.08)" }}>
                   <span style={{ fontFamily: "'Cinzel',serif", fontSize: "1.2rem", color: "#c8963c", minWidth: "50px" }}>{n}</span>
                   <span style={{ fontFamily: "'EB Garamond',serif", fontSize: "0.95rem", color: "#8a7e6e" }}>{l}</span>
@@ -556,7 +556,7 @@ function Curatorial() {
             <div>
               <p style={{ ...body, marginBottom: "1.3rem" }}>
                 <em>Children of the Sun: The Black Pharaohs of Kush &amp; Egypt&apos;s 25th Dynasty</em> is a digital humanities museum
-                exhibit presenting fifteen artifacts from the world&apos;s leading museum collections of ancient Nubian art and
+                exhibit presenting fourteen artifacts from the world&apos;s leading museum collections of ancient Nubian art and
                 archaeology. The exhibit explores the material evidence for the Kushite dynasty (ca. 747–656 BCE), examining how
                 these African kings from the Kingdom of Kush conquered and governed Egypt, preserved its sacred traditions,
                 developed a sophisticated hybrid artistic identity, and left a monumental legacy that was deliberately suppressed
