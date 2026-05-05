@@ -189,7 +189,7 @@ export const artifacts: Artifact[] = [
     citation:
       "Wonderful Things Art, 'Statue of Amun and King Taharqa, British Museum' (wonderfulthingsart.com, citing British Museum provenance records); British Museum Collection (EA 1779).",
     citationUrl:
-      "https://www.wonderfulthingsart.com/post/statue-of-amun-and-king-taharqa-british-museum",
+      "https://www.britishmuseum.org/collection/object/Y_EA1779",
   },
   {
     id: 6,

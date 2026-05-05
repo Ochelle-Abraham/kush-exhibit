@@ -544,7 +544,7 @@ function Curatorial() {
               ))}
               <div style={{ marginTop: "2rem" }}>
                 <h3 style={{ fontFamily: "'Cinzel',serif", fontSize: "0.9rem", color: "#e8c878", marginBottom: "0.8rem" }}>Lending Institutions</h3>
-                {["British Museum, London","Egyptian Museum, Cairo","MFA Boston","Musée du Louvre, Paris","Nubian Museum, Aswan","Kerma Museum, Sudan","ISAC Museum, Univ. of Chicago"].map(i => (
+                {["Global Egyptian Museum","British Museum, London","ISAW NYU, New York","High Museum of Art, Atlanta","MFA Boston","Ashmolean Museum, Oxford","ISAC Museum, Univ. of Chicago","University of Michigan Kelsey Museum","Biblical Archaeology Society","Univers Voyage","University of Memphis"].map(i => (
                   <div key={i} style={{ display: "flex", alignItems: "center", gap: "0.5rem", marginBottom: "0.4rem" }}>
                     <span style={{ color: "rgba(200,150,60,0.4)", fontSize: "0.7rem" }}>☥</span>
                     <span style={{ fontFamily: "'EB Garamond',serif", fontSize: "0.9rem", color: "#8a7e6e" }}>{i}</span>
@@ -583,16 +583,20 @@ function Curatorial() {
                   Selected Bibliography &amp; Primary Sources
                 </p>
                 {[
-                  ["British Museum Collection Online (EA1770, EA498, EA1779)","https://www.britishmuseum.org/collection"],
-                  ["MFA Boston — Ancient Nubia Now Exhibition","https://www.mfa.org/exhibitions/nubia"],
-                  ["Smarthistory — King Piye and the Kushite Control of Egypt","https://smarthistory.org/king-piye-kushite-egypt/"],
-                  ["ISAC University of Chicago — Kushite Kingdom","https://isac.uchicago.edu/museum-exhibits/nubia/kushite-kingdom"],
-                  ["UNESCO Museums for Intercultural Dialogue — Amenirdis I","http://www.unesco.org/culture/museum-for-dialogue/item/en/79/"],
-                  ["High Museum of Art — Ancient Nubia: Art of the 25th Dynasty, 2023","https://high.org/exhibition/ancient-nubia/"],
-                  ["National Geographic — Nubian Pharaohs (history/archaeology)","https://www.nationalgeographic.com/history/article/nubian-pharaohs-kushite-ancient-egypt"],
-                  ["Egypt Museum — Sphinx of Taharqa","https://egypt-museum.com/sphinx-of-taharqa/"],
-                  ["Wonderful Things Art — Ram of Amun and Taharqa","https://www.wonderfulthingsart.com/post/statue-of-amun-and-king-taharqa-british-museum"],
-                ].map(([text,url]) => (
+                        ["Global Egyptian Museum — Victory Stela of Piye","https://www.globalegyptianmuseum.org/record.aspx?id=15806"],
+                        ["British Museum Collection — Sphinx of Taharqo (EA1770)","https://www.britishmuseum.org/collection/object/Y_EA1770"],
+                        ["ISAW NYU — Statue of Amenirdas I, the Divine Consort","https://isaw.nyu.edu/exhibitions/wgre/highlights/statue-of-amenirdas-i-the-divine-consort-1"],
+                        ["High Museum of Art — Ancient Nubia: Art of the 25th Dynasty, 2023","https://high.org/exhibition/ancient-nubia/"],
+                        ["British Museum Collection — Ram of Amun Sheltering Taharqa (EA1779)","https://www.britishmuseum.org/collection/object/Y_EA1779"],
+                        ["ISAC University of Chicago — Kushite Kingdom","https://isac.uchicago.edu/museum-exhibits/nubia/kushite-kingdom"],
+                        ["Ashmolean Museum — Shrine of Taharqa (learnpdf)","https://www.ashmolean.org/files/learnpdftaharqasshrinepdf"],
+                        ["MFA Boston — Shawabty of King Taharqa","https://www.mfa.org/collections/object/shawabty-of-king-taharqa-142314"],
+                        ["University of Michigan Kelsey Museum — El-Kurru Royal Cemetery","https://lsa.umich.edu/kelsey/research/current-field-projects/el-kurru--sudan/el-kurru-blog-2013/1-11-13--the-royal-cemetery-at-el-kurru.html"],
+                        ["Biblical Archaeology Society — King Taharqa of the Kingdom of Cush","https://www.biblicalarchaeology.org/daily/biblical-topics/king-taharqa-of-the-kingdom-of-cush/"],
+                        ["Univers Voyage — The Black Pharaohs: A History of Nubia","https://universvoyage.com/en/the-black-pharaohs-a-history-of-nubia/"],
+                        ["University of Memphis — Luxor Temple Resources","https://classic.memphis.edu/egypt/resources/colortour/luxor5.php"],
+                        ["MFA Boston — Ancient Nubia Now Exhibition","https://www.mfa.org/exhibitions/nubia"],
+                      ].map(([text,url]) => (
                   <a key={url} href={url} target="_blank" rel="noopener noreferrer" style={{
                     display: "flex", alignItems: "flex-start", gap: "0.45rem", marginBottom: "0.45rem",
                     fontFamily: "'EB Garamond',serif", fontSize: "0.88rem", color: "#8a7e6e",
