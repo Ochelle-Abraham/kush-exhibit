@@ -536,7 +536,7 @@ function Curatorial() {
             {/* Left column */}
             <div>
               <h3 style={{ fontFamily: "'Cinzel',serif", fontSize: "0.95rem", color: "#e8c878", marginBottom: "1rem" }}>Exhibition Summary</h3>
-              {[["14","Artifacts from World Collections"],["5","Thematic Galleries"],["7+","Institutional Sources"],["100%","Credible Museum / University Citations"]].map(([n,l]) => (
+              {[["14","Artifacts from World Collections"],["5","Thematic Galleries"],["7+","Institutional Sources"]].map(([n,l]) => (
                 <div key={l} style={{ display: "flex", alignItems: "center", gap: "1rem", padding: "0.75rem 0", borderBottom: "1px solid rgba(200,150,60,0.08)" }}>
                   <span style={{ fontFamily: "'Cinzel',serif", fontSize: "1.2rem", color: "#c8963c", minWidth: "50px" }}>{n}</span>
                   <span style={{ fontFamily: "'EB Garamond',serif", fontSize: "0.95rem", color: "#8a7e6e" }}>{l}</span>
@@ -555,7 +555,7 @@ function Curatorial() {
             {/* Right column */}
             <div>
               <p style={{ ...body, marginBottom: "1.3rem" }}>
-                <em>Children of the Sun: The Black Pharaohs of Kush &amp; Egypt&apos;s 25th Dynasty</em> is a digital humanities museum
+                <em>Children of the Sun: The Black Pharaohs of Kush &amp; Egypt&apos;s 25th Dynasty </em> is a museum
                 exhibit presenting fourteen artifacts from the world&apos;s leading museum collections of ancient Nubian art and
                 archaeology. The exhibit explores the material evidence for the Kushite dynasty (ca. 747–656 BCE), examining how
                 these African kings from the Kingdom of Kush conquered and governed Egypt, preserved its sacred traditions,
@@ -622,11 +622,7 @@ function Footer() {
         The Black Pharaohs of Kush · A Digital Humanities Museum Exhibit · 25th Dynasty, ca. 747–656 BCE
       </p>
       <div style={{ width: "45px", height: "1px", margin: "0 auto 0.75rem", background: "linear-gradient(to right,transparent,rgba(200,150,60,0.35),transparent)" }} />
-      <p style={{ fontFamily: "'EB Garamond',serif", fontSize: "0.82rem", color: "#6a5e5488", maxWidth: "600px", margin: "0 auto", fontStyle: "italic" }}>
-        Artifact images sourced from Wikimedia Commons public domain and museum image archives.
-        All scholarship drawn from credible museum collections, university publications, and peer-reviewed sources.
-        Created for academic educational purposes in fulfillment of course requirements.
-      </p>
+      
     </footer>
   );
 }

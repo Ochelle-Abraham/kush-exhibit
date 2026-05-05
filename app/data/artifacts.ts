@@ -328,7 +328,7 @@ export const artifacts: Artifact[] = [
       "The decision to revive pyramid construction, which had lapsed in Egypt for nearly a thousand years, was one of the 25th Dynasty's most consequential acts of cultural reclamation. By burying their rulers in pyramids in Nubian soil, the Kushite kings simultaneously claimed the most iconic symbol of Egyptian royal legitimacy and rooted it permanently in African ground. These monuments announce that the center of civilizational power was not fixed in the north: great kingdoms could be built, great rulers buried, and great legacies preserved anywhere along the Nile. The fact that Sudan has more standing pyramids than Egypt is one of the most significant and underappreciated facts in the history of African civilization.",
     citation:
       "Wikipedia, 'Twenty-fifth Dynasty of Egypt'; Wikipedia, 'Kingdom of Kush'; ISAC University of Chicago, 'New Kingdom and Napatan Dynasty 1550–270 BC' (isac.uchicago.edu).",
-    citationUrl: "https://en.wikipedia.org/wiki/Twenty-fifth_Dynasty_of_Egypt#Art_and_architecture",
+    citationUrl: "https://lsa.umich.edu/kelsey/research/current-field-projects/el-kurru--sudan/el-kurru-blog-2013/1-11-13--the-royal-cemetery-at-el-kurru.html",
   },
   {
     id: 11,
@@ -354,7 +354,7 @@ export const artifacts: Artifact[] = [
     citation:
       "National Geographic, 'Nubian Kings Ruled Egypt for Less Than 100 Years. Their Influence Lasted Centuries.' (documenting Taharqa statue, Sudan National Museum, Khartoum); ISAC University of Chicago, 'Kushite Kingdom' (isac.uchicago.edu/museum-exhibits/nubia/kushite-kingdom).",
     citationUrl:
-      "https://www.nationalgeographic.com/history/article/nubian-pharaohs-kushite-ancient-egypt",
+      "https://www.biblicalarchaeology.org/daily/biblical-topics/king-taharqa-of-the-kingdom-of-cush/",
   },
 
   // ═══ SECTION 5: LEGACY ═══
@@ -384,7 +384,7 @@ export const artifacts: Artifact[] = [
     citation:
       "Wikipedia, 'Nubia' (citing 2003 excavation by Charles Bonnet); National Geographic, 'Nubian Kings Ruled Egypt for Less Than 100 Years. Their Influence Lasted Centuries.'",
     citationUrl:
-      "https://ajaonline.org/book-review/553/",
+      "https://universvoyage.com/en/the-black-pharaohs-a-history-of-nubia/",
   },
   {
     id: 13,
