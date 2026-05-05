@@ -327,7 +327,7 @@ export const artifacts: Artifact[] = [
     conceptualApproach:
       "The decision to revive pyramid construction, which had lapsed in Egypt for nearly a thousand years, was one of the 25th Dynasty's most consequential acts of cultural reclamation. By burying their rulers in pyramids in Nubian soil, the Kushite kings simultaneously claimed the most iconic symbol of Egyptian royal legitimacy and rooted it permanently in African ground. These monuments announce that the center of civilizational power was not fixed in the north: great kingdoms could be built, great rulers buried, and great legacies preserved anywhere along the Nile. The fact that Sudan has more standing pyramids than Egypt is one of the most significant and underappreciated facts in the history of African civilization.",
     citation:
-      "Wikipedia, 'Twenty-fifth Dynasty of Egypt'; Wikipedia, 'Kingdom of Kush'; ISAC University of Chicago, 'New Kingdom and Napatan Dynasty 1550–270 BC' (isac.uchicago.edu).",
+      "University of Michigan Kelsey Museum of Archaeology, 'The Royal Cemetery at El-Kurru' (lsa.umich.edu/kelsey). El-Kurru is described as a royal pyramid cemetery for the kings and queens of ancient Kush from about 850 to 650 BCE, including the Black Pharaohs who conquered and ruled Egypt as the 25th Dynasty. The Kelsey Museum has led ongoing excavation and preservation efforts at the site since 2013 under the direction of Research Scientist Geoff Emberling.",
     citationUrl: "https://lsa.umich.edu/kelsey/research/current-field-projects/el-kurru--sudan/el-kurru-blog-2013/1-11-13--the-royal-cemetery-at-el-kurru.html",
   },
   {
