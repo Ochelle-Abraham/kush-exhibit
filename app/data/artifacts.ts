@@ -80,7 +80,9 @@ export const artifacts: Artifact[] = [
     conceptualApproach:
       "The Victory Stela is arguably the single most important document of the 25th Dynasty. It establishes the ideological core of Kushite rule: that Nubian kings were not foreign usurpers but the righteous restorers of Egypt's sacred order. Piye presents himself as more devoutly Egyptian than the Egyptian rulers he defeats, he refuses to enter Memphis until he has made offerings at the city's great temples, and he denies an audience to enemy kings who had eaten fish (ritually unclean in the Amun tradition). This document redefines the meaning of pharaonic legitimacy: it is about moral purity and divine election rather than ethnic origin or bloodline. The Victory Stela announces to the ancient world, and to us, that Black African kings from the south had become the true custodians of Egypt's most sacred civilizational inheritance.",
    citation:
-      "Global Egyptian Museum, 'Victory Stela of Piye' (globalegyptianmuseum.org/record.aspx?id=15806);      See Also: Smarthistory, 'King Piye and the Kushite Control of Egypt' (smarthistory.org/king-piye-kushite-egypt/)." ,
+      "Global Egyptian Museum, 'Victory Stela of Piye' (globalegyptianmuseum.org/record.aspx?id=15806);     
+     See Also:
+     Smarthistory, 'King Piye and the Kushite Control of Egypt' (smarthistory.org/king-piye-kushite-egypt/)." ,
     citationUrl:
       "https://www.globalegyptianmuseum.org/record.aspx?id=15806",
   },
